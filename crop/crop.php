@@ -3,7 +3,7 @@
 $ImagenAncho = 250;
 $ImagenAlto = 300;
 
-
+//hello
 if(isset($_GET['id']) and $_GET['id'] == "1")
 	{
 	extract($_GET);
