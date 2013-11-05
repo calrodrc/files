@@ -1,4 +1,4 @@
 files
 =====
 
-files by dc
+Aplicacion para subida, cortado y finalizado de imagenes
